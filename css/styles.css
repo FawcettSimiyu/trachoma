@@ -1,0 +1,16 @@
+#first {
+    background-color: rgb(39, 216, 216);
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: unset;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#body {
+    background-color: rgb(221, 240, 240);
+}
